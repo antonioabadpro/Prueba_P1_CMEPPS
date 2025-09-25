@@ -4,6 +4,7 @@ public class Rama6 {
 
 	public static void main(String[] args) {
 		System.out.println("Commit 6");
+		System.out.println("Commit 7");
 
 	}
 
